@@ -1,16 +1,55 @@
-### Hi there 👋
+<h2 align="left"> Hi there 👋, I'm Jasveer Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<!--
-**an0nv33r/an0nv33r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A Cyber Security Enthusiast 🤖 Graduated in Computer Science (B.Tech) from Rajasthan Technical University, Kota, India</h3>
+<br />
 
-Here are some ideas to get you started:
+- 👨‍💻 Another Friendly Hacker & Web Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Python & Java Programmer.
+
+- 👨‍💻 CTF Player at [TryHackme](https://tryhackme.com/p/IamJasveer) & [HackTheBox](https://app.hackthebox.com/profile/651015).
+
+- 🐱‍💻 Bug Bounty Hunter.
+
+- 🌱 I’m currently learning Data Structures & Algorithms.
+
+- 📝 Checkout My [Blogs/Writeups](https://oyeecoder.blogspot.com/)
+
+- 💬 Ask me Anything [here](https://oyeecoder.blogspot.com/p/get-in-touch.html)
+
+<br>
+</br>
+
+<a href="https://twitter.com/an0nv33r"><img src="https://img.shields.io/twitter/follow/an0nv33r?label=Twitter&style=social" alt="Twitter"></a>
+<br>
+<img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
+</br>
+
+<h3 align="left"> Reach out To me:</h3>
+
+<a href="https://www.linkedin.com/in/an0nv33r">
+  <img align="left" alt="Jasveer Singh | Linkedin" width="20px" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/assets/linkedin.svg" />
+</a>
+
+<a href="https://twitter.com/an0nv33r">
+  <img align="left" alt="Jasveer Singh | Twitter" width="21px" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/assets/twitter.svg" />
+</a>
+
+<a href="https://instagram.com/iamveer.me">
+  <img align="left" alt="Jasveer Singh | Instagram" width="21px" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/assets/instagram.svg" />
+</a>
+
+<a href="https://t.me/an0nv33r">
+  <img align="left" alt="Jasveer Singh | Telegram" width="21px" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/assets/telegram.png" />
+</a>
+
+<a href="mailto:veer@cyberdude.com">
+  <img align="left" alt="Jasveer Singh | Email" width="21px" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/assets/email.svg" />
+</a>
+
+<br />
+<br />
+
+<h3 align="left"> My Github Stats:</h3>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an0nv33r&show_icons=true&count_private=true&theme=dark" alt="Jasveer Singh" /></p>
