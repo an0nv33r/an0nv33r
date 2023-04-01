@@ -1,3 +1,9 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/86272521/158034188-0fc92842-843e-44ef-8d26-c4ffea0c3038.gif" width="420" height="120"/>
+<p align="center"><img src=https://user-images.githubusercontent.com/86272521/160924819-75f63ba5-b92d-4d5a-8f8b-e4b6ac6d5160.gif width="620" height="370"/>
+<p align ="center">
+
+<img align="center" alt="GIF" width="512" height="384" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/assets/portfolio.gif" />
+
 <h2 align="left"> Hi there 👋, I'm Jasveer Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <h3 align="center">A Cyber Security Enthusiast 🤖 Graduated in Computer Science (B.Tech) from Rajasthan Technical University, Kota, India</h3>
@@ -18,10 +24,15 @@
 - 💬 Ask me Anything [here](https://oyeecoder.blogspot.com/p/get-in-touch.html)
 
 <br>
-</br>
 
+[<img src="https://tryhackme-badges.s3.amazonaws.com/IamJasveer.png" alt="TryHackMe">]
+
+<!--
+</br>
 <a href="https://twitter.com/an0nv33r"><img src="https://img.shields.io/twitter/follow/an0nv33r?label=Twitter&style=social" alt="Twitter"></a>
 <br>
+ -->
+
 <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
 </br>
 
