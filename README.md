@@ -17,9 +17,9 @@
 
 - 🌱 I’m currently learning Data Structures & Algorithms.
 
-- 📝 Checkout My [Blogs/Writeups](https://oyeecoder.blogspot.com/)
+- 📝 Checkout My [Blogs/Writeups](https://oyeecoder.blogspot.com/).
 
-- 💬 Ask me Anything [here](https://oyeecoder.blogspot.com/p/get-in-touch.html)
+- 💬 Ask me [Anything](https://oyeecoder.blogspot.com/p/get-in-touch.html).
 
 <br>
 
@@ -31,7 +31,7 @@
 <br>
  -->
 
-<img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
+<img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="400">
 </br>
 
 <h3 align="left"> Reach out To me:</h3>
