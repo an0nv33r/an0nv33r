@@ -1,6 +1,4 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/86272521/158034188-0fc92842-843e-44ef-8d26-c4ffea0c3038.gif" width="420" height="120"/>
-<p align="center"><img src=https://user-images.githubusercontent.com/86272521/160924819-75f63ba5-b92d-4d5a-8f8b-e4b6ac6d5160.gif width="620" height="370"/>
-<p align ="center">
 
 <img align="center" alt="GIF" width="512" height="384" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/assets/portfolio.gif" />
 
