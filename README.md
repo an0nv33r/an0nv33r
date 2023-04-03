@@ -4,7 +4,7 @@
 
 <h2 align="left"> Hi there 👋, I'm Jasveer Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<h3 align="center">A Cyber Security Enthusiast 🤖 Graduated in Computer Science (B.Tech) from Rajasthan Technical University, Kota, India</h3>
+<h3 align="center">A Cyber Security Enthusiast 🤖 Graduated in Computer Science (B.Tech) from Rajasthan Technical University, Kota, India.</h3>
 <br />
 
 - 👨‍💻 Another Friendly Hacker & Web Developer.
@@ -23,7 +23,7 @@
 
 <br>
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/IamJasveer.png" alt="TryHackMe">]
+[<script src="https://tryhackme.com/badge/531259"></script>]
 
 <!--
 </br>
@@ -37,7 +37,7 @@
 <h3 align="left"> Reach out To me:</h3>
 
 <a href="https://www.linkedin.com/in/an0nv33r">
-  <img align="left" alt="Jasveer Singh | Linkedin" width="20px" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/assets/linkedin.svg" />
+  <img align="left" alt="Jasveer Singh | Linkedin" width="21px" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/assets/linkedin.svg" />
 </a>
 
 <a href="https://twitter.com/an0nv33r">
