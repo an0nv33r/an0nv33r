@@ -86,7 +86,7 @@
 
 <br>
 
-<h3 align="left"> My Github Stats:</h3>
+<h3 align="center"> My Github Stats:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an0nv33r&show_icons=true&count_private=true&theme=dark" alt="Jasveer Singh" /></p>
 <br>
