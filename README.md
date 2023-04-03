@@ -1,6 +1,6 @@
-<p align="center"><img src="/assests/welcome.gif" width="420" height="120"/>
+<p align="center"><img src="assets/welcome.gif" width="420" height="120"/>
 
-<img align="center" alt="GIF" width="512" height="384" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/assets/portfolio.gif" />
+<img align="center" alt="GIF" width="512" height="384" src="assets/portfolio.gif" />
 
 <h2 align="center"> Hi there 👋, I'm Jasveer Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
@@ -28,7 +28,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/assets/veer.gif" width="400">
+<img src="assets/veer.gif" width="400">
 
 </br>
 
