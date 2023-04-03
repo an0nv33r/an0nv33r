@@ -90,4 +90,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an0nv33r&show_icons=true&count_private=true&theme=dark" alt="Jasveer Singh" /></p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=an0nv33r&label=Profile%20views&color=0e75b6&style=flat" alt="an0nv33r" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=an0nv33r&label=Profile%20views&color=0e75b6&style=flat" alt="an0nv33r" /> </p>
