@@ -1,8 +1,8 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/86272521/158034188-0fc92842-843e-44ef-8d26-c4ffea0c3038.gif" width="420" height="120"/>
+<p align="center"><img src="/assests/welcome.gif" width="420" height="120"/>
 
 <img align="center" alt="GIF" width="512" height="384" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/assets/portfolio.gif" />
 
-<h2 align="left"> Hi there 👋, I'm Jasveer Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center"> Hi there 👋, I'm Jasveer Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <h3 align="center">A Cyber Security Enthusiast 🤖.</h3>
 <h3 align="center">Graduated in Computer Science (B.Tech) from Rajasthan Technical University, Kota, India.</h3>
@@ -28,13 +28,13 @@
 
 <br>
 
-<img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="400">
+<img src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/assets/veer.gif" width="400">
 
 </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/an0nv33r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="an0nv33r" height="30" width="40" /></a>
+<a href="https://twitter.com/an0nv33r" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="an0nv33r" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/an0nv33r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="an0nv33r" height="30" width="40" /></a>
 <a href="https://instagram.com/iamveer.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamveer.me" height="30" width="40" /></a>
 <a href="https://medium.com/@iamjasveer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iamjasveer" height="30" width="40" /></a>
