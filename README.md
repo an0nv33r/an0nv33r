@@ -1,4 +1,4 @@
-< align="center"> <img src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/welcome.gif" width="420" height="120"/>
+<p align="center"> <img src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/welcome.gif" width="420" height="120"/>
 
 <img align="center" alt="GIF" width="512" height="384" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/portfolio.gif"/> </p>
 
