@@ -4,7 +4,8 @@
 
 <h2 align="left"> Hi there 👋, I'm Jasveer Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<h3 align="center">A Cyber Security Enthusiast 🤖 Graduated in Computer Science (B.Tech) from Rajasthan Technical University, Kota, India.</h3>
+<h3 align="center">A Cyber Security Enthusiast 🤖.</h3>
+<h3 align="center">Graduated in Computer Science (B.Tech) from Rajasthan Technical University, Kota, India.</h3>
 <br />
 
 - 👨‍💻 Another Friendly Hacker & Web Developer.
