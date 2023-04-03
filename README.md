@@ -1,8 +1,8 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/welcome.gif" width="420" height="120"/>
+<img src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/welcome.gif" width="420" height="120"/>
 
 <br>
 
-<img align="right" alt="GIF" width="512" height="384" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/portfolio.gif"/> </p>
+<img alt="GIF" width="512" height="384" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/portfolio.gif"/>
 
 <h2 align="center"> Hi there 👋, I'm Jasveer Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
