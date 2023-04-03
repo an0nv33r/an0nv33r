@@ -30,7 +30,7 @@
 
 <br>
 
-<p align="centre"> <img src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/veer.gif" width="400"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/veer.gif" width="400"> </p>
 
 <br>
 
