@@ -34,10 +34,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/an0nv33r" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="an0nv33r" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/an0nv33r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="an0nv33r" height="30" width="40" /></a>
-<a href="https://instagram.com/iamveer.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamveer.me" height="30" width="40" /></a>
-<a href="https://medium.com/@iamjasveer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iamjasveer" height="30" width="40" /></a>
+<a href="https://facebook.com/iamveer.me" target="_blank"><img align="center" src="assets/facebook.svg" alt="an0nv33r" height="30" width="40" /></a>
+<a href="https://instagram.com/iamveer.me" target="_blank"><img align="center" src="assets/instagram.svg" alt="iamveer.me" height="30" width="40" /></a>
+<a href="https://twitter.com/an0nv33r" target="_blank"><img align="center" src="assets/twitter.svg" alt="an0nv33r" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/an0nv33r" target="_blank"><img align="center" src="assets/linkedin.svg" alt="an0nv33r" height="30" width="40" /></a>
+<a href="https://medium.com/@iamjasveer" target="_blank"><img align="center" src="assets/medium.svg" alt="@iamjasveer" height="30" width="40" /></a>
 </p>
 
 <br>
