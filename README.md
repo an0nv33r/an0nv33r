@@ -28,6 +28,8 @@
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/IamJasveer.png" alt="TryHackMe">]
 
+[<a target="_blank" rel="noopener noreferrer nofollow" href="https://tryhackme-badges.s3.amazonaws.com/IamJasveer.png"><img src="https://tryhackme-badges.s3.amazonaws.com/IamJasveer.png" alt="TryHackMe" data-canonical-src="https://tryhackme-badges.s3.amazonaws.com/IamJasveer.png" style="max-width: 100%;"></a>]
+
 <br>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/veer.gif" width="400"> </p>
