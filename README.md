@@ -26,7 +26,7 @@
 
 <br>
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/IamJasveer.png" alt="TryHackMe">]
+[<img src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/tools/thm.png" alt="TryHackMe" style="max-width: 100%;">]
 
 <br>
 
