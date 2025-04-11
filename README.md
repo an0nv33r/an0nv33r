@@ -18,9 +18,9 @@
 
 - 🐱‍💻 Bug Bounty Hunter.
 
-- 📟 Check out my [Terminal-Based Portfolio](https://an0nv33r.github.io/root/) – a CLI-style showcase of my work and interests.
+- 📟 Check out my [Terminal-Based Portfolio](https://an0nv33r.github.io/root/).
 
-- 📜 Explore my [Certification Portfolio](https://github.com/an0nv33r/Certificates) – a curated collection of my verified learning achievements.
+- 📜 Explore my [Certification Portfolio](https://github.com/an0nv33r/Certificates).
 
 - 🌱 I’m currently learning Data Structures & Algorithms.
 
