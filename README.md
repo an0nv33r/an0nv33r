@@ -8,6 +8,7 @@
 
 <h3 align="center">A Cyber Security Enthusiast 🤖.</h3>
 <h3 align="center">Graduated in Computer Science (B.Tech) from Rajasthan Technical University, Kota, India.</h3>
+<h3 align="center">Pursuing M.Tech in Computer Science & Information Technology from Central University Of Jammu, Jammu & Kashmir, India</h3>
 <br>
 
 - 👨‍💻 Another Friendly Hacker & Web Developer.
