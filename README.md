@@ -8,26 +8,26 @@
 
 <h3 align="center">A Cyber Security Enthusiast 🤖.</h3>
 <h3 align="center">Graduated in Computer Science (B.Tech) from Rajasthan Technical University, Kota, India.</h3>
-<h3 align="center">Pursuing M.Tech in Computer Science & Information Technology from Central University Of Jammu, Jammu & Kashmir, India</h3>
+<h3 align="center">Pursuing M.Tech in Computer Science & Information Technology from Central University Of Jammu, Jammu & Kashmir, India.</h3>
 <br>
 
 - 👨‍💻 Another Friendly Hacker & Web Developer.
 
 - 👨‍💻 Python & Java Programmer.
 
-- 👨‍💻 CTF Player at [TryHackme](https://tryhackme.com/p/IamJasveer) & [HackTheBox](https://app.hackthebox.com/profile/651015).
+- 👨‍💻 CTF Player at [TryHackme](https://tryhackme.com/p/IamJasveer) & [HackTheBox](https://app.hackthebox.com/profile/651015)
 
 - 🐱‍💻 Bug Bounty Hunter.
 
-- 📟 Check out my [Terminal-Based Portfolio](https://an0nv33r.github.io/root/).
+- 📟 Check out my [Terminal-Based Portfolio](https://an0nv33r.github.io/root/)
 
-- 📜 Explore my [Certification Portfolio](https://github.com/an0nv33r/Certificates).
+- 📜 Explore my [Certification Portfolio](https://github.com/an0nv33r/Certificates)
 
 - 🌱 I’m currently learning Data Structures & Algorithms.
 
-- 📝 Checkout My [Blogs/Writeups](https://oyeecoder.blogspot.com/).
+- 📝 Checkout My [Blogs/Writeups](https://oyeecoder.blogspot.com/)
 
-- 💬 Ask me [Anything](https://oyeecoder.blogspot.com/p/get-in-touch.html).
+- 💬 Ask me [Anything](https://oyeecoder.blogspot.com/p/get-in-touch.html)
 
 <br>
 
