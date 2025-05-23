@@ -41,11 +41,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://facebook.com/iamveer.me" target="_blank"><img align="center" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/facebook.svg" alt="an0nv33r" height="30" width="40" /></a>
-<a href="https://instagram.com/iamveer.me" target="_blank"><img align="center" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/instagram.svg" alt="iamveer.me" height="30" width="40" /></a>
-<a href="https://twitter.com/an0nv33r" target="_blank"><img align="center" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/twitter.svg" alt="an0nv33r" height="30" width="40" /></a>
+<a href="https://facebook.com/iamjasveer.me" target="_blank"><img align="center" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/facebook.svg" alt="an0nv33r" height="30" width="40" /></a>
+<a href="https://instagram.com/iamjasveer.me" target="_blank"><img align="center" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/instagram.svg" alt="iamveer.me" height="30" width="40" /></a>
+<a href="https://x.com/an0nv33r" target="_blank"><img align="center" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/x.svg" alt="an0nv33r" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/an0nv33r" target="_blank"><img align="center" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/linked-in.svg" alt="an0nv33r" height="30" width="40" /></a>
 <a href="https://medium.com/@iamjasveer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/medium.svg" alt="@iamjasveer" height="30" width="40" /></a>
+<a href="https://linktr.ee/oyeecoder" target="_blank"><img align="center" src="https://raw.githubusercontent.com/an0nv33r/an0nv33r/main/veer/linktree.svg" alt="@iamjasveer" height="30" width="40" /></a>
 </p>
 
 <br>
